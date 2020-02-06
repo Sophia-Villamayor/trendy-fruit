@@ -16,6 +16,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .watermelon {
   background-color: #e97065;
 }
